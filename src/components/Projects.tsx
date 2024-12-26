@@ -16,7 +16,7 @@ const Projects = () => {
       image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=800",
       tags: ["Vite", "Bolt AI", "TypeScript","Next.js", "React", "Three.js", "neural network", "Algorithm", "DSA", "TailWind CSS","Motion Effect","Licuid effect",],
       github: "https://github.com/sunnykr9012/Global-Infrastructure-Networks.git",
-      demo: ""
+      demo: "https://global-infrastructure-networks.vercel.app/"
     },
     {
       title: "Real-Time Data Analytics Dashboard Power BI",
