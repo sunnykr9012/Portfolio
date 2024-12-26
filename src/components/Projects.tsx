@@ -11,21 +11,22 @@ const Projects = () => {
 
   const projects = [
     {
+      title: "Global-Infrastructure-Networks.",
+      description: "Global-Infrastructure-Networks",
+      image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=800",
+      tags: ["Vite", "Bolt AI", "TypeScript","Next.js", "React", "Three.js", "neural network", "Algorithm", "DSA", "TailWind CSS","Motion Effect","Licuid effect",],
+      github: "https://github.com/sunnykr9012/Global-Infrastructure-Networks.git",
+      demo: ""
+    },
+    {
       title: "Real-Time Data Analytics Dashboard Power BI",
       description: "Real-time data visualization platform with predictive analytics streamline drone operations, achieving 100% reporting accuracy Delivered executive-level MIS reports to the COO, and CEO enhancing strategic decision-making.",
       image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=800",
-      tags: ["Power BI BI", "Google Sheet", "SQL",],
+      tags: ["Power BI ", "Google Sheet", "SQL",],
       github: "https://github.com/sunnykr9012/Real-time-interactive-Power-BI-dashboards-for-drone-operations.git",
       demo: "#"
     },
-    {
-      title: "Build SaaS Web Application Automatic-Data cleaning-modeling-and-quality-enhancement Excel Data.",
-      description: "web application for automatic data cleaning, modeling, and quality enhancement of Excel files",
-      image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=800",
-      tags: ["Vite", "Bolt AI", "TypeScript", "React"],
-      github: "https://github.com/sunnykr9012/Automatic-cleaning-modeling-and-quality-enhancement.git",
-      demo: "#"
-    },
+    
     {
       title: "Create the Chakbandi Web Application.",
       description: "government project for land measurement.",
@@ -35,12 +36,20 @@ const Projects = () => {
       demo: "#"
     },
     {
+      title: "AI Startup Landing Page.",
+      description: "Transform Your Business with Advanced AI",
+      image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=800",
+      tags: ["Vite", "Bolt AI", "TypeScript", "React", "TailWind CSS","Motion Effect","Licuid effect"],
+      github: "https://github.com/sunnykr9012/Modern-AI-Startup-Website.git",
+      demo: "https://modern-ai-startup-website.vercel.app/"
+    },
+    {
       title: "AI-Based Lead SaaS Web Application: Transform Business Data into Actionable Leads.",
       description: "AI-driven Lead SaaS Web Application that transforms business data into actionable insights",
       image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?auto=format&fit=crop&q=80&w=800",
       tags: ["Vite", "Bolt AI", "TypeScript", "React"],
       github: "https://github.com/sunnykr9012/AI-Based-Lead-Generation-SAAS-Web-Application.git",
-      demo: "#"
+      demo: "ai-based-lead-generation-saas-web-application.vercel.app"
     },
     
     {
@@ -48,9 +57,10 @@ const Projects = () => {
       description: "web application for automatic data cleaning, modeling, and quality enhancement of Excel files",
       image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=800",
       tags: ["Vite", "Bolt AI", "TypeScript", "React"],
-      github: "#",
-      demo: "#"
+      github: "https://github.com/sunnykr9012/Automatic-cleaning-modeling-and-quality-enhancement.git",
+      demo: "automatic-cleaning-modeling-and-quality-enhancement.vercel.app"
     },
+    
     {
       title: "Build high-performing e-commerce and portfolio websites.",
       description: "maintained diverse websites, including blogs, business sites, portfolios, and e-commerce stores, ensuring responsive design and optimal performances",
@@ -59,6 +69,8 @@ const Projects = () => {
       github: "#",
       demo: "#"
     },
+    
+    
   ];
 
   return (
