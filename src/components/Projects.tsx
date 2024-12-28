@@ -49,7 +49,7 @@ const Projects = () => {
       image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?auto=format&fit=crop&q=80&w=800",
       tags: ["Vite", "Bolt AI", "TypeScript", "React"],
       github: "https://github.com/sunnykr9012/AI-Based-Lead-Generation-SAAS-Web-Application.git",
-      demo: "ai-based-lead-generation-saas-web-application.vercel.app"
+      demo: "https://ai-based-lead-generation-saas-web-application.vercel.app/"
     },
     
     {
@@ -58,7 +58,7 @@ const Projects = () => {
       image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=800",
       tags: ["Vite", "Bolt AI", "TypeScript", "React"],
       github: "https://github.com/sunnykr9012/Automatic-cleaning-modeling-and-quality-enhancement.git",
-      demo: "automatic-cleaning-modeling-and-quality-enhancement.vercel.app"
+      demo: "https://automatic-cleaning-modeling-and-quality-enhancement.vercel.app/"
     },
     {
       title: "neural-network-visualization.",
@@ -66,7 +66,7 @@ const Projects = () => {
       image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=800",
       tags: ["Vite", "Bolt AI", "TypeScript", "React","Algorithm","neural network"],
       github: "https://github.com/sunnykr9012/Neural-Network-Visualization.git",
-      demo: "neural-network-visualization-mu.vercel.app"
+      demo: "https://neural-network-visualization-mu.vercel.app/"
 
     },
     
