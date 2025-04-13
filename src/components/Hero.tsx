@@ -65,7 +65,7 @@ const Hero = () => {
                 className="bg-gradient-to-r from-purple-600 to-blue-500 bg-clip-text text-transparent"
                 {...hoverEffect}
               >
-                Hii I am Abhinav Data Analyst
+                Hii I am Sunny Data Analyst
               </motion.span>
               <br />& AI Web Developer
             </motion.h1>
